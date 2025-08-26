@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 
-/* Body CSS */
 
 html{
     font-size: 10px;
@@ -329,6 +328,7 @@ footer .quick-links p{
     cursor: pointer;
     margin-right: 4rem;
 }
+
 
 
 
