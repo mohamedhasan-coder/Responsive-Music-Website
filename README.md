@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps:
 3.  **Open `index.html` in your browser:**
     You can do this by double-clicking the file or by right-clicking and choosing "Open with" your favorite browser.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
