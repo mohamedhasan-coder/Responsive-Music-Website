@@ -12,7 +12,7 @@ This project is a front-end implementation of a music website. It's designed to 
 * **Simple and Clean Interface:** The UI is designed to be user-friendly and visually appealing.
 * **Easy to Customize:** The code is well-structured, making it easy to modify and build upon.
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **HTML5:** For the structure of the website. 
 * **CSS3:** For styling and layout, including media queries for responsiveness.
