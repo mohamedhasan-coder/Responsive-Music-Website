@@ -2,7 +2,7 @@
  
 A responsive music website built with HTML and CSS. This project is a simple and elegant way to showcase a music-related webpage that adapts to different screen sizes.
   
-## 🎵 About the Project
+## About the Project
 
 This project is a front-end implementation of a music website. It's designed to be fully responsive, providing an optimal viewing experience across a wide range of devices, from desktops to mobile phones.
 
@@ -14,7 +14,7 @@ This project is a front-end implementation of a music website. It's designed to 
 
 ## 💻 Technologies Used
 
-* **HTML5:** For the structure of the website.
+* **HTML5:** For the structure of the website. 
 * **CSS3:** For styling and layout, including media queries for responsiveness.
 
 ## 🚀 How to Get Started
