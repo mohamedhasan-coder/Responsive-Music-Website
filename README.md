@@ -17,8 +17,8 @@ This project is a front-end implementation of a music website. It's designed to 
 * **HTML5:** For the structure of the website. 
 * **CSS3:** For styling and layout, including media queries for responsiveness.
 
-## 🚀 How to Get Started
- 
+## How to Get Started
+  
 To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
