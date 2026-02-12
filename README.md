@@ -46,7 +46,7 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📝 License
+## License
 
 Distributed under the MIT License. You can create a `LICENSE` file in your repository and add the MIT License text to it.
 
